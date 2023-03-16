@@ -1,7 +1,6 @@
 {
   "name": "rc02_jsx",
   "version": "0.1.0",
-  "homepage": "https://banugungor.github.io/react-animal-language-cards",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.2.3",
